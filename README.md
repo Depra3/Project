@@ -2,7 +2,7 @@
 
 ## Project 1. 내 방 어디?
 - 폴더 링크 : [Project_1](https://github.com/Depra3/Human_Project1)
-- 배포 링크 : [내 방, 어디?](https://seungkyu37-project2-app-3b4qng.streamlit.app/)
+- 배포 링크 : [내 방, 어디?](https://depra3-human-project1-app-kbirqs.streamlit.app/)
 - 기간 : 2022.01.30 ~ 2023.00.00
 - 사용 언어 : `Python(3.9)`
 - 사용 Tools : `VS code`, `Google Colab`
