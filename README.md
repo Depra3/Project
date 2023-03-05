@@ -1,11 +1,18 @@
 # 프로젝트 전체 개요
 
-## Project 1. 내 방 어디?
+## Project : 내방 어디?
+![image](https://user-images.githubusercontent.com/120995529/216347597-1ff2140e-78d4-424d-8ffc-4ff9fdc269f9.png)
+
+## 목적
+- 서울시 전/월세 실거래 데이터를 기반한 검색, 머신러닝을 이용한 전세 시세 예측
+***
+
+## 데이터
+- [서울특별시 부동산 전월세가 정보](https://data.seoul.go.kr/dataList/OA-21276/S/1/datasetView.do)
+***
+
+## 링크
 - 폴더 링크 : [Project_1](https://github.com/Depra3/Human_Project1)
 - 배포 링크 : [내 방, 어디?](https://depra3-human-project1-app-kbirqs.streamlit.app/)
-- 기간 : 2022.01.30 ~ 2023.00.00
-- 사용 언어 : `Python(3.9)`
-- 사용 Tools : `VS code`, `Google Colab`
-- 라이브러리 Version
-    + `pandas (1.5.3)`, `numpy (1.24.1)`, `plotly (5.13.0)`, `matplotlib (3.6.3)`, `streamlit (1.17.0)`, `streamlit-option-menu (0.3.2)`, `geopandas (0.12.2)`, `joblib (1.2.0)`, `scikit-learn (1.2.1)`, `tensorflow (2.11.0)`, `seaborn (0.12.2)`, `stqdm (0.0.5)`
-- 내용 : 서울시 전/월세 실거래 데이터를 기반한 검색, 머신러닝을 이용한 전세 시세 예측
+- 시연 영상 링크 : [시연 영상](https://www.youtube.com/watch?v=RbN39pUA1Ww&ab_channel=evanjjh)
+- PDF : 
