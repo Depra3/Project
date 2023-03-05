@@ -1,6 +1,6 @@
 # 프로젝트 전체 개요
 
-## Project : 내방 어디?
+## Project 1 : 내방 어디?
 ![image](https://user-images.githubusercontent.com/120995529/216347597-1ff2140e-78d4-424d-8ffc-4ff9fdc269f9.png)
 
 ## 목적
