@@ -16,3 +16,15 @@
 - 배포 링크 : [내 방, 어디?](https://depra3-human-project1-app-kbirqs.streamlit.app/)
 - 시연 영상 링크 : [시연 영상](https://www.youtube.com/watch?v=RbN39pUA1Ww&ab_channel=evanjjh)
 - PDF : 
+
+## Project 2 : Last Carnival!
+
+## 목적
+- 음악 차트와 커뮤니티의 조화
+***
+
+## 링크
+- 폴더 링크 : [Project_2](https://github.com/Depra3/Human_Project2)
+- 배포 링크 : 
+- 시연 영상 링크 : 
+- PDF : 
