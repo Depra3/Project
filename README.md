@@ -16,6 +16,7 @@
 - 배포 링크 : [내 방, 어디?](https://depra3-human-project1-app-kbirqs.streamlit.app/)
 - 시연 영상 링크 : [시연 영상](https://www.youtube.com/watch?v=RbN39pUA1Ww&ab_channel=evanjjh)
 - PDF : 
+***
 
 ## Project 2 : Last Carnival!
 
